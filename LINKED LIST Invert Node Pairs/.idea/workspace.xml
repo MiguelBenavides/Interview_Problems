@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="804c9b71-3269-465b-8d99-47b4b5e4b9bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/InvertNodePairsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InvertNodePairs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InvertNodePairs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InvertNodePairs/InvertNodePairs$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InvertNodePairs/InvertNodePairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InvertNodePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InvertNodePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InvertNodePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InvertNodePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/InvertNodePairsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/InvertNodePairsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +17,11 @@
     <session id="627810062">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,12 +36,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2406" />
+          <entry key="java" value="2627" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2406" />
+          <entry key="JAVA" value="2627" />
         </counts>
       </usages-collector>
     </session>
@@ -54,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/InvertNodePairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+            <state relative-caret-position="272">
+              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -63,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/InvertNodePairsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="32" column="93" selection-start-line="32" selection-start-column="93" selection-end-line="32" selection-end-column="93" />
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/LinkedListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="51">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -111,7 +108,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -123,8 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,6 +142,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,7 +152,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540791212958" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540868609796" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -192,10 +189,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InvertNodePairsTest.InvertNodePairsTest">
+  <component name="RunManager" selected="JUnit.InvertNodePairsTest">
     <configuration name="InvertNodePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InvertNodePairs" />
       <module name="InvertNodePairs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvertNodePairsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InvertNodePairs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.InvertNodePairsTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,9 +230,11 @@
     <list>
       <item itemvalue="Application.InvertNodePairs" />
       <item itemvalue="JUnit.InvertNodePairsTest.InvertNodePairsTest" />
+      <item itemvalue="JUnit.InvertNodePairsTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InvertNodePairsTest" />
         <item itemvalue="JUnit.InvertNodePairsTest.InvertNodePairsTest" />
         <item itemvalue="Application.InvertNodePairs" />
       </list>
@@ -239,14 +252,12 @@
       <updated>1540453748303</updated>
       <workItem from="1540453753067" duration="5521000" />
       <workItem from="1540785337018" duration="3728000" />
-      <workItem from="1540789129717" duration="2072000" />
+      <workItem from="1540789129717" duration="2169000" />
+      <workItem from="1540885566954" duration="962000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 07m 22s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 08m 51s.xml">
       <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
     </history-entry>
@@ -274,15 +285,18 @@
     <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 31m 32s.xml">
       <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="InvertNodePairsTest - 2018.10.30 at 01h 50m 09s.xml">
+      <configuration name="InvertNodePairsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11321000" />
+    <option name="totallyTimeSpent" value="12380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -332,27 +346,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/InvertNodePairsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="93" selection-start-line="32" selection-start-column="93" selection-end-line="32" selection-end-column="93" />
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/InvertNodePairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+        <state relative-caret-position="272">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>

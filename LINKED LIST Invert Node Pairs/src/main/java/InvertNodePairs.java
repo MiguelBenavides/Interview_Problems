@@ -27,9 +27,6 @@ public class InvertNodePairs
             prev = p1;
         } while(prev.next != null && prev.next.next != null);
 
-        // Assign the new head to the parameter, so it's consistent.
-        head = dummyHead.next;
-
-        return head;
+        return dummyHead.next;
     }
 }
