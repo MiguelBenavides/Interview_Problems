@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="804c9b71-3269-465b-8d99-47b4b5e4b9bd" name="Default Changelist" comment="" />
+    <list default="true" id="2ba4b9bc-8458-4acd-b9c4-7d19eb266a78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseSublist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReverseSublistTestByValueWithStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LINKED LIST Invert Node Pairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LINKED LIST Invert Node Pairs/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,46 +15,72 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="627810062">
+    <session id="729999721">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="485973128">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2627" />
+          <entry key="java" value="1187" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2627" />
+          <entry key="JAVA" value="1187" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ReverseSublist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ReverseSublistTestByValueWithStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="77" column="63" selection-start-line="77" selection-start-column="63" selection-end-line="77" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Arquillian JUnit Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -60,11 +91,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/InvertNodePairsTest.java" />
-        <option value="$PROJECT_DIR$/src/InvertNodePairs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LinkedListNode.java" />
-        <option value="$PROJECT_DIR$/src/test/java/InvertNodePairsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/InvertNodePairs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReverseSublistTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReverseSublist.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReverseSublistTestByValueWithStack.java" />
       </list>
     </option>
   </component>
@@ -87,22 +116,27 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="InvertNodePairs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LINKED LIST Invert Node Pairs" type="462c0819:PsiDirectoryNode" />
+              <item name="LINKED LIST Reverse Sublist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LINKED LIST Reverse Sublist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="InvertNodePairs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LINKED LIST Invert Node Pairs" type="462c0819:PsiDirectoryNode" />
+              <item name="LINKED LIST Reverse Sublist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LINKED LIST Reverse Sublist" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="InvertNodePairs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LINKED LIST Invert Node Pairs" type="462c0819:PsiDirectoryNode" />
+              <item name="LINKED LIST Reverse Sublist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LINKED LIST Reverse Sublist" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LINKED LIST Reverse Sublist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LINKED LIST Reverse Sublist" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -110,6 +144,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,30 +153,13 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540868609796" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541818265288" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="main.java" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Hector Gonzalez\Documents\GitHub\Interview_Problems\LINKED LIST Invert Node Pairs\src\main\java" />
-      <recent name="C:\Users\Hector Gonzalez\Documents\GitHub\Interview_Problems\LINKED LIST Invert Node Pairs\main\src" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,16 +173,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InvertNodePairsTest">
-    <configuration name="InvertNodePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InvertNodePairs" />
-      <module name="InvertNodePairs" />
+  <component name="RunManager" selected="JUnit.ReverseSublistTestByValueWithStack">
+    <configuration name="ReverseSublist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ReverseSublist" />
+      <module name="ReverseSublist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvertNodePairsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InvertNodePairs" />
+    <configuration name="ReverseSublistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReverseSublist" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -172,13 +196,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.InvertNodePairsTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ReverseSublistTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvertNodePairsTest.InvertNodePairsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InvertNodePairs" />
+    <configuration name="ReverseSublistTestByValueWithStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReverseSublist" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -186,23 +210,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.InvertNodePairsTest" />
-      <option name="METHOD_NAME" value="InvertNodePairsTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ReverseSublistTestByValueWithStack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseSublistTest.equalStartAndEnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReverseSublist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ReverseSublistTest" />
+      <option name="METHOD_NAME" value="equalStartAndEnd" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InvertNodePairs" />
-      <item itemvalue="JUnit.InvertNodePairsTest.InvertNodePairsTest" />
-      <item itemvalue="JUnit.InvertNodePairsTest" />
+      <item itemvalue="Application.ReverseSublist" />
+      <item itemvalue="JUnit.ReverseSublistTest" />
+      <item itemvalue="JUnit.ReverseSublistTest.equalStartAndEnd" />
+      <item itemvalue="JUnit.ReverseSublistTestByValueWithStack" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InvertNodePairsTest" />
-        <item itemvalue="JUnit.InvertNodePairsTest.InvertNodePairsTest" />
-        <item itemvalue="Application.InvertNodePairs" />
+        <item itemvalue="JUnit.ReverseSublistTestByValueWithStack" />
+        <item itemvalue="JUnit.ReverseSublistTest.equalStartAndEnd" />
+        <item itemvalue="JUnit.ReverseSublistTest" />
+        <item itemvalue="Application.ReverseSublist" />
       </list>
     </recent_temporary>
   </component>
@@ -211,58 +251,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="804c9b71-3269-465b-8d99-47b4b5e4b9bd" name="Default Changelist" comment="" />
-      <created>1540453748303</created>
+      <changelist id="2ba4b9bc-8458-4acd-b9c4-7d19eb266a78" name="Default Changelist" comment="" />
+      <created>1541816106278</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540453748303</updated>
-      <workItem from="1540453753067" duration="5521000" />
-      <workItem from="1540785337018" duration="3728000" />
-      <workItem from="1540789129717" duration="2169000" />
-      <workItem from="1540885566954" duration="962000" />
-      <workItem from="1541816017331" duration="99000" />
+      <updated>1541816106278</updated>
+      <workItem from="1541816115082" duration="96000" />
+      <workItem from="1541816364222" duration="1869000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 08m 51s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
+    <history-entry file="ReverseSublistTest - 2018.11.09 at 20h 46m 37s.xml">
+      <configuration name="ReverseSublistTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 09m 15s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
+    <history-entry file="ReverseSublistTest - 2018.11.09 at 20h 47m 00s.xml">
+      <configuration name="ReverseSublistTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 12m 56s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
+    <history-entry file="ReverseSublistTest - 2018.11.09 at 20h 47m 30s.xml">
+      <configuration name="ReverseSublistTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 13m 34s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
+    <history-entry file="ReverseSublistTest_equalStartAndEnd - 2018.11.09 at 20h 48m 59s.xml">
+      <configuration name="ReverseSublistTest.equalStartAndEnd" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 19m 39s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 19m 59s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 20m 25s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 27m 57s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InvertNodePairsTest_InvertNodePairsTest - 2018.10.28 at 23h 31m 32s.xml">
-      <configuration name="InvertNodePairsTest.InvertNodePairsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InvertNodePairsTest - 2018.10.30 at 01h 50m 09s.xml">
-      <configuration name="InvertNodePairsTest" configurationId="JUnit" />
+    <history-entry file="ReverseSublistTestByValueWithStack - 2018.11.09 at 20h 49m 55s.xml">
+      <configuration name="ReverseSublistTestByValueWithStack" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12479000" />
+    <option name="totallyTimeSpent" value="1965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -270,6 +293,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
@@ -280,16 +304,15 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32907802" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
@@ -300,35 +323,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/InvertNodePairsTest.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseSublist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InvertNodePairs.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReverseSublistTestByValueWithStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/InvertNodePairsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="77" column="63" selection-start-line="77" selection-start-column="63" selection-end-line="77" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -384,7 +392,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>InvertNodePairs</last-edited>
+          <last-edited>ReverseSublist</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
