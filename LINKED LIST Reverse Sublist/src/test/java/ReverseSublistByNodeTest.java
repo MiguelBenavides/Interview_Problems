@@ -33,7 +33,7 @@ public class ReverseSublistByNodeTest {
         head.next.next.next.next.next = new LinkedListNode(6);
 
         head = reverseSublistByNode(head, 2, 4);
-        assertEquals("Verify function works for an even number of nodes.", "{1, 4, 3, 2, 5, 6}", head.toString());
+        assertEquals("Verify function works for an odd number of nodes.", "{1, 4, 3, 2, 5, 6}", head.toString());
     }
 
     @Test
@@ -47,7 +47,7 @@ public class ReverseSublistByNodeTest {
         head.next.next.next.next.next = new LinkedListNode(6);
 
         head = reverseSublistByNode(head, 1, 6);
-        assertEquals("Verify function works for an even number of nodes.", "{6, 5, 4, 3, 2, 1}", head.toString());
+        assertEquals("Verify function works when the sublist is the whole list.", "{6, 5, 4, 3, 2, 1}", head.toString());
     }
 
     @Test
@@ -61,7 +61,7 @@ public class ReverseSublistByNodeTest {
         head.next.next.next.next.next = new LinkedListNode(6);
 
         head = reverseSublistByNode(head, 4, 4);
-        assertEquals("Verify function works for an even number of nodes.", "{1, 2, 3, 4, 5, 6}", head.toString());
+        assertEquals("Verify function works when the start is equal to the end", "{1, 2, 3, 4, 5, 6}", head.toString());
     }
 
     @Test
@@ -75,6 +75,6 @@ public class ReverseSublistByNodeTest {
         head.next.next.next.next.next = new LinkedListNode(6);
 
         head = reverseSublistByNode(head, 5, 2);
-        assertEquals("Verify function works for an even number of nodes.", "{1, 2, 3, 4, 5, 6}", head.toString());
+        assertEquals("Verify function works when the start is larger than the end.", "{1, 2, 3, 4, 5, 6}", head.toString());
     }
 }
