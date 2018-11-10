@@ -1,20 +1,8 @@
 package main.java;
-import main.java.LinkedListNode.*;
 
 import java.util.HashSet;
 
 public class FindCycleStart {
-    public static void main(String[] args) {
-        LinkedListNode head = new LinkedListNode(1);
-        head.next = new LinkedListNode(2);
-        LinkedListNode cycleStart = new LinkedListNode(3);
-        head.next.next = cycleStart;
-        head.next.next.next = new LinkedListNode(4);
-        head.next.next.next.next = new LinkedListNode(5);
-        head.next.next.next.next.next = cycleStart;
-
-        cycleStart = findCycleStart(head);
-    }
 
     public static LinkedListNode findCycleStartWithHashSet(LinkedListNode head)
     {

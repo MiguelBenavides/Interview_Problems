@@ -65,4 +65,14 @@ public class FindCycleStartWithHashSetTest {
         head = findCycleStartWithHashSet(head);
         assertEquals("Verify function works for just one node in the cycle.", cycleStart, head);
     }
+
+    @Test
+    public void listHeadCycledToItself()
+    {
+        LinkedListNode cycleStart = new LinkedListNode(1);
+        cycleStart.next = cycleStart;
+
+        LinkedListNode head = findCycleStartWithHashSet(cycleStart);
+        assertEquals("verify function works whn the head is cycled to itself.", cycleStart, head);
+    }
 }

@@ -65,4 +65,14 @@ public class FindCycleStartTest {
         head = findCycleStart(head);
         assertEquals("Verify function works for just one node in the cycle.", cycleStart, head);
     }
+
+    @Test
+    public void listHeadCycledToItself()
+    {
+        LinkedListNode cycleStart = new LinkedListNode(1);
+        cycleStart.next = cycleStart;
+
+        LinkedListNode head = findCycleStart(cycleStart);
+        assertEquals("verify function works whn the head is cycled to itself.", cycleStart, head);
+    }
 }
