@@ -1,12 +1,12 @@
 package test.java;
 
-import main.java.*;
+import main.java.LinkedListNode;
 import org.junit.Test;
 
-import static main.java.ReverseSublist.*;
+import static main.java.ReverseSublist.reverseSublistByNode;
 import static org.junit.Assert.assertEquals;
 
-public class ReverseSublistTestByValueWithStack {
+public class ReverseSublistByNodeTest {
 
     @Test
     public void evenNumberOfNodesTest()
@@ -18,7 +18,7 @@ public class ReverseSublistTestByValueWithStack {
         head.next.next.next.next = new LinkedListNode(5);
         head.next.next.next.next.next = new LinkedListNode(6);
 
-        head = reverseSublistByValueWithStack(head, 2, 5);
+        head = reverseSublistByNode(head, 2, 5);
         assertEquals("Verify function works for an even number of nodes.", "{1, 5, 4, 3, 2, 6}", head.toString());
     }
 
@@ -32,7 +32,7 @@ public class ReverseSublistTestByValueWithStack {
         head.next.next.next.next = new LinkedListNode(5);
         head.next.next.next.next.next = new LinkedListNode(6);
 
-        head = reverseSublistByValueWithStack(head, 2, 4);
+        head = reverseSublistByNode(head, 2, 4);
         assertEquals("Verify function works for an even number of nodes.", "{1, 4, 3, 2, 5, 6}", head.toString());
     }
 
@@ -46,7 +46,7 @@ public class ReverseSublistTestByValueWithStack {
         head.next.next.next.next = new LinkedListNode(5);
         head.next.next.next.next.next = new LinkedListNode(6);
 
-        head = reverseSublistByValueWithStack(head, 1, 6);
+        head = reverseSublistByNode(head, 1, 6);
         assertEquals("Verify function works for an even number of nodes.", "{6, 5, 4, 3, 2, 1}", head.toString());
     }
 
@@ -60,7 +60,7 @@ public class ReverseSublistTestByValueWithStack {
         head.next.next.next.next = new LinkedListNode(5);
         head.next.next.next.next.next = new LinkedListNode(6);
 
-        head = reverseSublistByValueWithStack(head, 4, 4);
+        head = reverseSublistByNode(head, 4, 4);
         assertEquals("Verify function works for an even number of nodes.", "{1, 2, 3, 4, 5, 6}", head.toString());
     }
 
@@ -74,8 +74,7 @@ public class ReverseSublistTestByValueWithStack {
         head.next.next.next.next = new LinkedListNode(5);
         head.next.next.next.next.next = new LinkedListNode(6);
 
-        head = reverseSublistByValueWithStack(head, 5, 2);
+        head = reverseSublistByNode(head, 5, 2);
         assertEquals("Verify function works for an even number of nodes.", "{1, 2, 3, 4, 5, 6}", head.toString());
-
     }
 }
