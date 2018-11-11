@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2516c529-173b-4d9a-8ccd-0e7fcb978cb4" name="Default Changelist" comment="" />
+    <list default="true" id="db646ac2-7396-4d11-a869-3e5824866f1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MaxQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STACK Stack with max API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../STACK Stack with max API/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,58 +16,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1054269762">
+    <session id="-923606037">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="class" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1744" />
+          <entry key="java" value="1863" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1744" />
+          <entry key="JAVA" value="1863" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MaxStack.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MaxQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="45" column="61" lean-forward="true" selection-start-line="45" selection-start-column="61" selection-end-line="45" selection-end-column="61" />
+            <state relative-caret-position="476">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
-                <element signature="e#1002#1003#0" expanded="true" />
-                <element signature="e#1061#1062#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1110#1111#0" expanded="true" />
+                <element signature="e#1004#1005#0" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MaxStackTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MaxQueueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+            <state relative-caret-position="697">
+              <caret line="50" column="8" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,8 +89,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/MaxStack.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MaxStackTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MaxQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MaxQueue.java" />
       </list>
     </option>
   </component>
@@ -109,23 +114,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="STACK Stack with max API" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STACK Stack with max API" type="462c0819:PsiDirectoryNode" />
+              <item name="QUEUE Queue with Max API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QUEUE Queue with Max API" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="STACK Stack with max API" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STACK Stack with max API" type="462c0819:PsiDirectoryNode" />
+              <item name="QUEUE Queue with Max API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QUEUE Queue with Max API" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QUEUE Queue with Max API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QUEUE Queue with Max API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QUEUE Queue with Max API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -135,7 +150,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541970353943" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541978298688" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -151,9 +166,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MaxStackTest">
-    <configuration name="MaxStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="STACK Stack with max API" />
+  <component name="RunManager" selected="JUnit.MaxQueueTest.getMaxTest">
+    <configuration name="MaxQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QUEUE Queue with Max API" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -161,13 +176,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.MaxStackTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.MaxQueueTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxStackTest.getMaxWhenEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="STACK Stack with max API" />
+    <configuration name="MaxQueueTest.enqueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QUEUE Queue with Max API" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -175,15 +190,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.MaxStackTest" />
-      <option name="METHOD_NAME" value="getMaxWhenEmpty" />
+      <option name="MAIN_CLASS_NAME" value="test.java.MaxQueueTest" />
+      <option name="METHOD_NAME" value="enqueueTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxStackTest.getMaxWhenRepeatedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="STACK Stack with max API" />
+    <configuration name="MaxQueueTest.getMaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QUEUE Queue with Max API" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -191,59 +206,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.MaxStackTest" />
-      <option name="METHOD_NAME" value="getMaxWhenRepeatedTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxStackTest.popWhenEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="STACK Stack with max API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.MaxStackTest" />
-      <option name="METHOD_NAME" value="popWhenEmptyTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxStackTest.toStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="STACK Stack with max API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.MaxStackTest" />
-      <option name="METHOD_NAME" value="toStringTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.MaxQueueTest" />
+      <option name="METHOD_NAME" value="getMaxTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MaxStackTest.popWhenEmptyTest" />
-      <item itemvalue="JUnit.MaxStackTest.getMaxWhenRepeatedTest" />
-      <item itemvalue="JUnit.MaxStackTest.getMaxWhenEmpty" />
-      <item itemvalue="JUnit.MaxStackTest" />
-      <item itemvalue="JUnit.MaxStackTest.toStringTest" />
+      <item itemvalue="JUnit.MaxQueueTest.enqueueTest" />
+      <item itemvalue="JUnit.MaxQueueTest.getMaxTest" />
+      <item itemvalue="JUnit.MaxQueueTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MaxStackTest" />
-        <item itemvalue="JUnit.MaxStackTest.toStringTest" />
-        <item itemvalue="JUnit.MaxStackTest.getMaxWhenEmpty" />
-        <item itemvalue="JUnit.MaxStackTest.getMaxWhenRepeatedTest" />
-        <item itemvalue="JUnit.MaxStackTest.popWhenEmptyTest" />
+        <item itemvalue="JUnit.MaxQueueTest.getMaxTest" />
+        <item itemvalue="JUnit.MaxQueueTest" />
+        <item itemvalue="JUnit.MaxQueueTest.enqueueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -252,49 +231,49 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2516c529-173b-4d9a-8ccd-0e7fcb978cb4" name="Default Changelist" comment="" />
-      <created>1541888149239</created>
+      <changelist id="db646ac2-7396-4d11-a869-3e5824866f1a" name="Default Changelist" comment="" />
+      <created>1541973550787</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541888149239</updated>
-      <workItem from="1541888150595" duration="2604000" />
+      <updated>1541973550787</updated>
+      <workItem from="1541973552501" duration="3099000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxStackTest_pushTest - 2018.11.10 at 16h 40m 14s.xml">
-      <configuration name="MaxStackTest.pushTest" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 33m 17s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_popWhenEmptyTest - 2018.11.10 at 16h 41m 53s.xml">
-      <configuration name="MaxStackTest.popWhenEmptyTest" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 33m 27s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_getMaxWhenRepeatedTest - 2018.11.10 at 16h 43m 30s.xml">
-      <configuration name="MaxStackTest.getMaxWhenRepeatedTest" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 33m 45s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_getMaxWhenEmpty - 2018.11.10 at 16h 45m 27s.xml">
-      <configuration name="MaxStackTest.getMaxWhenEmpty" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 34m 04s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_getMaxWhenEmpty - 2018.11.10 at 16h 46m 01s.xml">
-      <configuration name="MaxStackTest.getMaxWhenEmpty" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 34m 24s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_getMaxWhenEmpty - 2018.11.10 at 16h 46m 14s.xml">
-      <configuration name="MaxStackTest.getMaxWhenEmpty" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 35m 02s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_getMaxWhenEmpty - 2018.11.10 at 16h 46m 33s.xml">
-      <configuration name="MaxStackTest.getMaxWhenEmpty" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 35m 16s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest - 2018.11.10 at 16h 47m 14s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 35m 27s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_toStringTest - 2018.11.10 at 16h 49m 04s.xml">
-      <configuration name="MaxStackTest.toStringTest" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 35m 47s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest - 2018.11.10 at 16h 49m 12s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
+    <history-entry file="MaxQueueTest_getMaxTest - 2018.11.11 at 16h 36m 51s.xml">
+      <configuration name="MaxQueueTest.getMaxTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2604000" />
+    <option name="totallyTimeSpent" value="3099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -308,14 +287,14 @@
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,25 +317,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/MaxStack.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="45" column="61" lean-forward="true" selection-start-line="45" selection-start-column="61" selection-end-line="45" selection-end-column="61" />
+        <state relative-caret-position="149">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MaxQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="50" column="8" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
           <folding>
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MaxStackTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MaxQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        <state relative-caret-position="476">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
           </folding>
         </state>
       </provider>
