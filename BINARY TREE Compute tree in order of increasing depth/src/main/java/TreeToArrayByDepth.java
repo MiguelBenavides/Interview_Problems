@@ -64,4 +64,33 @@ public class TreeToArrayByDepth {
         if(node.right != null)
             buildArrayListZigzag(node.right, depth + 1, tree);
     }
+
+    public static ArrayList<ArrayList<Integer>> treeToArrayByDepthBottomUp(BinaryTreeNode root)
+    {
+        if(root == null) return null;
+
+        ArrayList<ArrayList<Integer>> tree = new ArrayList<>();
+
+        buildArrayListBottomUp(root, 0, tree);
+
+        return tree;
+    }
+
+    private static void buildArrayListBottomUp(BinaryTreeNode node, int depth, ArrayList<ArrayList<Integer>> tree)
+    {
+        if(tree.size() - 1 >= depth)
+            tree.get(tree.size() - 1 - depth).add(node.data);
+        else
+        {
+            ArrayList<Integer> depthLevelArrayList = new ArrayList<>();
+            depthLevelArrayList.add(node.data);
+            tree.add(0, depthLevelArrayList);
+        }
+
+        if(node.left != null)
+            buildArrayListBottomUp(node.left, depth + 1, tree);
+
+        if(node.right != null)
+            buildArrayListBottomUp(node.right, depth + 1, tree);
+    }
 }
