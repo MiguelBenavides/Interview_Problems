@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4f51c3a-12e7-4ebc-956e-cbcc9bdb71f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinaryTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TreeToArrayByDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TreeToArrayByDepthTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUEUE Queue with Max API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QUEUE Queue with Max API/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TreeToArrayByDepthZigzagTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TreeToArrayByDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TreeToArrayByDepth.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,22 +23,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1206" />
+          <entry key="java" value="1333" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1206" />
+          <entry key="JAVA" value="1333" />
         </counts>
       </usages-collector>
     </session>
@@ -50,21 +48,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TreeToArrayByDepth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="510">
+              <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TreeToArrayByDepthTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TreeToArrayByDepthTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TreeToArrayByDepthZigzagTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="612">
+              <caret line="36" column="52" lean-forward="true" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1062#1063#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,9 +106,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/TreeToArrayByDepth.java" />
         <option value="$PROJECT_DIR$/src/main/java/BinaryTreeNode.java" />
         <option value="$PROJECT_DIR$/src/test/java/TreeToArrayByDepthTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TreeToArrayByDepthZigzagTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TreeToArrayByDepth.java" />
       </list>
     </option>
   </component>
@@ -146,7 +159,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541982209502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541985411717" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -162,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TreeToArrayByDepthTest">
+  <component name="RunManager" selected="JUnit.TreeToArrayByDepthZigzagTest">
     <configuration name="TreeToArrayByDepthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BINARY TREE Compute tree in order of increasing depth" />
       <extension name="coverage">
@@ -193,12 +206,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeToArrayByDepthZigzagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BINARY TREE Compute tree in order of increasing depth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.TreeToArrayByDepthZigzagTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeToArrayByDepthZigzagTest.normalTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BINARY TREE Compute tree in order of increasing depth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.TreeToArrayByDepthZigzagTest" />
+      <option name="METHOD_NAME" value="normalTreeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.TreeToArrayByDepthTest.normalTreeTest" />
       <item itemvalue="JUnit.TreeToArrayByDepthTest" />
+      <item itemvalue="JUnit.TreeToArrayByDepthZigzagTest" />
+      <item itemvalue="JUnit.TreeToArrayByDepthZigzagTest.normalTreeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TreeToArrayByDepthZigzagTest" />
+        <item itemvalue="JUnit.TreeToArrayByDepthZigzagTest.normalTreeTest" />
         <item itemvalue="JUnit.TreeToArrayByDepthTest" />
         <item itemvalue="JUnit.TreeToArrayByDepthTest.normalTreeTest" />
       </list>
@@ -214,7 +261,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541981232193</updated>
-      <workItem from="1541981233779" duration="1601000" />
+      <workItem from="1541981233779" duration="2511000" />
     </task>
     <servers />
   </component>
@@ -228,9 +275,18 @@
     <history-entry file="TreeToArrayByDepthTest - 2018.11.11 at 18h 23m 32s.xml">
       <configuration name="TreeToArrayByDepthTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TreeToArrayByDepthZigzagTest - 2018.11.11 at 19h 16m 12s.xml">
+      <configuration name="TreeToArrayByDepthZigzagTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeToArrayByDepthZigzagTest_normalTreeTest - 2018.11.11 at 19h 16m 44s.xml">
+      <configuration name="TreeToArrayByDepthZigzagTest.normalTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeToArrayByDepthZigzagTest - 2018.11.11 at 19h 16m 49s.xml">
+      <configuration name="TreeToArrayByDepthZigzagTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1601000" />
+    <option name="totallyTimeSpent" value="2511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -281,21 +337,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TreeToArrayByDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TreeToArrayByDepthTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="-136">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#327#328#0" expanded="true" />
             <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TreeToArrayByDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TreeToArrayByDepthZigzagTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="52" lean-forward="true" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
           </folding>
         </state>
       </provider>
