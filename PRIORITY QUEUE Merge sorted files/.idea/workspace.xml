@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bb50cc5-ded8-4833-80d9-7e8b6ce906a6" name="Default Changelist" comment="" />
+    <list default="true" id="f065489c-3211-431f-be1d-139d2e313724" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MergeSortedArraysTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BINARY TREE Sum of R2L paths/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BINARY TREE Sum of R2L paths/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1830628060">
+    <session id="-1758873587">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
@@ -30,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1224" />
+          <entry key="java" value="1158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1224" />
+          <entry key="JAVA" value="1158" />
         </counts>
       </usages-collector>
     </session>
@@ -43,23 +48,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SumOfR2LPaths.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MergeSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SumOfR2LPathsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MergeSortedArraysTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+            <state relative-caret-position="11">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1433#1434#0" expanded="true" />
-                <element signature="e#1497#1498#0" expanded="true" />
+                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#903#904#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,8 +90,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/SumOfR2LPaths.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SumOfR2LPathsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MergeSortedFiles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MergeSortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MergeSortedArraysTest.java" />
       </list>
     </option>
   </component>
@@ -105,21 +116,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="BINARY TREE Sum of R2L paths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BINARY TREE Sum of R2L paths" type="462c0819:PsiDirectoryNode" />
+              <item name="PRIORITY QUEUE Merge sorted files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRIORITY QUEUE Merge sorted files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BINARY TREE Sum of R2L paths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BINARY TREE Sum of R2L paths" type="462c0819:PsiDirectoryNode" />
+              <item name="PRIORITY QUEUE Merge sorted files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRIORITY QUEUE Merge sorted files" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BINARY TREE Sum of R2L paths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BINARY TREE Sum of R2L paths" type="462c0819:PsiDirectoryNode" />
+              <item name="PRIORITY QUEUE Merge sorted files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRIORITY QUEUE Merge sorted files" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -127,8 +140,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,7 +148,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542247281483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542252593031" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -153,23 +164,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SumOfR2LPathsTest.oneNodeInTreeTest">
-    <configuration name="SumOfR2LPathsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BINARY TREE Sum of R2L paths" />
+  <component name="RunManager" selected="JUnit.MergeSortedArraysTest">
+    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.MergeSortedArrays" />
+      <module name="PRIORITY QUEUE Merge sorted files" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.*" />
+          <option name="PATTERN" value="main.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.SumOfR2LPathsTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfR2LPathsTest.emptyTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BINARY TREE Sum of R2L paths" />
+    <configuration name="MergeSortedArraysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRIORITY QUEUE Merge sorted files" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -177,15 +187,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.SumOfR2LPathsTest" />
-      <option name="METHOD_NAME" value="emptyTreeTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="test.java.MergeSortedArraysTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfR2LPathsTest.nomalTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BINARY TREE Sum of R2L paths" />
+    <configuration name="MergeSortedArraysTest.emptyArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRIORITY QUEUE Merge sorted files" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -193,41 +201,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.SumOfR2LPathsTest" />
-      <option name="METHOD_NAME" value="nomalTreeTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfR2LPathsTest.oneNodeInTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BINARY TREE Sum of R2L paths" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.SumOfR2LPathsTest" />
-      <option name="METHOD_NAME" value="oneNodeInTreeTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.MergeSortedArraysTest" />
+      <option name="METHOD_NAME" value="emptyArrayTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SumOfR2LPathsTest.emptyTreeTest" />
-      <item itemvalue="JUnit.SumOfR2LPathsTest.nomalTreeTest" />
-      <item itemvalue="JUnit.SumOfR2LPathsTest" />
-      <item itemvalue="JUnit.SumOfR2LPathsTest.oneNodeInTreeTest" />
+      <item itemvalue="Application.MergeSortedArrays" />
+      <item itemvalue="JUnit.MergeSortedArraysTest.emptyArrayTest" />
+      <item itemvalue="JUnit.MergeSortedArraysTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SumOfR2LPathsTest.oneNodeInTreeTest" />
-        <item itemvalue="JUnit.SumOfR2LPathsTest" />
-        <item itemvalue="JUnit.SumOfR2LPathsTest.emptyTreeTest" />
-        <item itemvalue="JUnit.SumOfR2LPathsTest.nomalTreeTest" />
+        <item itemvalue="JUnit.MergeSortedArraysTest" />
+        <item itemvalue="JUnit.MergeSortedArraysTest.emptyArrayTest" />
+        <item itemvalue="Application.MergeSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -236,43 +226,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8bb50cc5-ded8-4833-80d9-7e8b6ce906a6" name="Default Changelist" comment="" />
-      <created>1542166771148</created>
+      <changelist id="f065489c-3211-431f-be1d-139d2e313724" name="Default Changelist" comment="" />
+      <created>1542247309546</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542166771148</updated>
-      <workItem from="1542166772653" duration="3456000" />
+      <updated>1542247309546</updated>
+      <workItem from="1542247311553" duration="1793000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SumOfR2LPathsTest_emptyTreeTest - 2018.11.13 at 21h 57m 12s.xml">
-      <configuration name="SumOfR2LPathsTest.emptyTreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SumOfR2LPathsTest_nomalTreeTest - 2018.11.13 at 22h 13m 47s.xml">
-      <configuration name="SumOfR2LPathsTest.nomalTreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SumOfR2LPathsTest_nomalTreeTest - 2018.11.13 at 22h 14m 06s.xml">
-      <configuration name="SumOfR2LPathsTest.nomalTreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SumOfR2LPathsTest_nomalTreeTest - 2018.11.13 at 22h 14m 19s.xml">
-      <configuration name="SumOfR2LPathsTest.nomalTreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SumOfR2LPathsTest_emptyTreeTest - 2018.11.13 at 22h 20m 15s.xml">
-      <configuration name="SumOfR2LPathsTest.emptyTreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SumOfR2LPathsTest - 2018.11.13 at 22h 20m 20s.xml">
-      <configuration name="SumOfR2LPathsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SumOfR2LPathsTest_oneNodeInTreeTest - 2018.11.13 at 22h 33m 05s.xml">
-      <configuration name="SumOfR2LPathsTest.oneNodeInTreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SumOfR2LPathsTest_oneNodeInTreeTest - 2018.11.13 at 22h 33m 18s.xml">
-      <configuration name="SumOfR2LPathsTest.oneNodeInTreeTest" configurationId="JUnit" />
+    <history-entry file="MergeSortedArraysTest - 2018.11.14 at 20h 21m 55s.xml">
+      <configuration name="MergeSortedArraysTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3456000" />
+    <option name="totallyTimeSpent" value="1793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -286,7 +255,7 @@
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -316,21 +285,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/SumOfR2LPaths.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MergeSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SumOfR2LPathsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/MergeSortedArraysTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        <state relative-caret-position="11">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1433#1434#0" expanded="true" />
-            <element signature="e#1497#1498#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
           </folding>
         </state>
       </provider>
