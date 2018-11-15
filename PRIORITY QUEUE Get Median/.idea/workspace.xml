@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56e9596a-38a9-4b50-ab79-8a2d0ca1e666" name="Default Changelist" comment="" />
+    <list default="true" id="bccf6128-c814-49a5-92a6-2258ee3dbdcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GetMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetMedianTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRIORITY QUEUE Compute kth largest element/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PRIORITY QUEUE Compute kth largest element/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,10 +15,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="686913368">
+    <session id="1046036789">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -30,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="570" />
+          <entry key="java" value="919" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="570" />
+          <entry key="JAVA" value="919" />
         </counts>
       </usages-collector>
     </session>
@@ -43,26 +47,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/GetKthLargestElement.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GetMedian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="238">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GetKLargestElementTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/GetMedianTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="100" column="28" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+            <state relative-caret-position="391">
+              <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#1112#1113#0" expanded="true" />
+                <element signature="e#1142#1143#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,9 +89,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/GetKthLargetsElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/GetKthLargestElement.java" />
-        <option value="$PROJECT_DIR$/src/test/java/GetKLargestElementTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetMedian.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GetMedianTest.java" />
       </list>
     </option>
   </component>
@@ -109,34 +114,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PRIORITY QUEUE Compute kth largest element" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PRIORITY QUEUE Compute kth largest element" type="462c0819:PsiDirectoryNode" />
+              <item name="PRIORITY QUEUE Get Median" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRIORITY QUEUE Get Median" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PRIORITY QUEUE Compute kth largest element" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PRIORITY QUEUE Compute kth largest element" type="462c0819:PsiDirectoryNode" />
+              <item name="PRIORITY QUEUE Get Median" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRIORITY QUEUE Get Median" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PRIORITY QUEUE Compute kth largest element" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PRIORITY QUEUE Compute kth largest element" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PRIORITY QUEUE Compute kth largest element" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,7 +140,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542262157811" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542263348796" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -161,9 +156,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GetKLargestElementTest">
-    <configuration name="GetKLargestElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PRIORITY QUEUE Compute kth largest element" />
+  <component name="RunManager" selected="JUnit.GetMedianTest">
+    <configuration name="GetMedianTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRIORITY QUEUE Get Median" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -171,13 +166,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.GetKLargestElementTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.GetMedianTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetKLargestElementTest.kEqualsOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PRIORITY QUEUE Compute kth largest element" />
+    <configuration name="GetMedianTest.emptyListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRIORITY QUEUE Get Median" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -185,15 +180,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.GetKLargestElementTest" />
-      <option name="METHOD_NAME" value="kEqualsOneTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.GetMedianTest" />
+      <option name="METHOD_NAME" value="emptyListTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetKLargestElementTest.kEqualsSizeOfListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PRIORITY QUEUE Compute kth largest element" />
+    <configuration name="GetMedianTest.orderedInputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRIORITY QUEUE Get Median" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -201,15 +196,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.GetKLargestElementTest" />
-      <option name="METHOD_NAME" value="kEqualsSizeOfListTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.GetMedianTest" />
+      <option name="METHOD_NAME" value="orderedInputTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetKLargestElementTest.normalScenarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PRIORITY QUEUE Compute kth largest element" />
+    <configuration name="GetMedianTest.reverseOderedInputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRIORITY QUEUE Get Median" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
@@ -217,25 +212,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.GetKLargestElementTest" />
-      <option name="METHOD_NAME" value="normalScenarioTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.GetMedianTest" />
+      <option name="METHOD_NAME" value="reverseOderedInputTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetMedianTest.reverseOrderedInputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRIORITY QUEUE Get Median" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.GetMedianTest" />
+      <option name="METHOD_NAME" value="reverseOrderedInputTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.GetKLargestElementTest.normalScenarioTest" />
-      <item itemvalue="JUnit.GetKLargestElementTest" />
-      <item itemvalue="JUnit.GetKLargestElementTest.kEqualsSizeOfListTest" />
-      <item itemvalue="JUnit.GetKLargestElementTest.kEqualsOneTest" />
+      <item itemvalue="JUnit.GetMedianTest.emptyListTest" />
+      <item itemvalue="JUnit.GetMedianTest.orderedInputTest" />
+      <item itemvalue="JUnit.GetMedianTest.reverseOderedInputTest" />
+      <item itemvalue="JUnit.GetMedianTest.reverseOrderedInputTest" />
+      <item itemvalue="JUnit.GetMedianTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GetKLargestElementTest" />
-        <item itemvalue="JUnit.GetKLargestElementTest.kEqualsOneTest" />
-        <item itemvalue="JUnit.GetKLargestElementTest.kEqualsSizeOfListTest" />
-        <item itemvalue="JUnit.GetKLargestElementTest.normalScenarioTest" />
+        <item itemvalue="JUnit.GetMedianTest" />
+        <item itemvalue="JUnit.GetMedianTest.emptyListTest" />
+        <item itemvalue="JUnit.GetMedianTest.reverseOrderedInputTest" />
+        <item itemvalue="JUnit.GetMedianTest.reverseOderedInputTest" />
+        <item itemvalue="JUnit.GetMedianTest.orderedInputTest" />
       </list>
     </recent_temporary>
   </component>
@@ -244,43 +257,40 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="56e9596a-38a9-4b50-ab79-8a2d0ca1e666" name="Default Changelist" comment="" />
-      <created>1542258792298</created>
+      <changelist id="bccf6128-c814-49a5-92a6-2258ee3dbdcb" name="Default Changelist" comment="" />
+      <created>1542262216942</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542258792298</updated>
-      <workItem from="1542258793711" duration="1480000" />
+      <updated>1542262216942</updated>
+      <workItem from="1542262218412" duration="1097000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetKLargestElementTest_normalScenarioTest - 2018.11.14 at 23h 24m 16s.xml">
-      <configuration name="GetKLargestElementTest.normalScenarioTest" configurationId="JUnit" />
+    <history-entry file="GetMedianTest_emptyListTest - 2018.11.15 at 00h 21m 48s.xml">
+      <configuration name="GetMedianTest.emptyListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GetKLargestElementTest - 2018.11.14 at 23h 24m 24s.xml">
-      <configuration name="GetKLargestElementTest" configurationId="JUnit" />
+    <history-entry file="GetMedianTest - 2018.11.15 at 00h 21m 55s.xml">
+      <configuration name="GetMedianTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GetKLargestElementTest - 2018.11.14 at 23h 25m 59s.xml">
-      <configuration name="GetKLargestElementTest" configurationId="JUnit" />
+    <history-entry file="GetMedianTest_emptyListTest - 2018.11.15 at 00h 22m 26s.xml">
+      <configuration name="GetMedianTest.emptyListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GetKLargestElementTest - 2018.11.14 at 23h 26m 15s.xml">
-      <configuration name="GetKLargestElementTest" configurationId="JUnit" />
+    <history-entry file="GetMedianTest_orderedInputTest - 2018.11.15 at 00h 23m 00s.xml">
+      <configuration name="GetMedianTest.orderedInputTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GetKLargestElementTest_kEqualsSizeOfListTest - 2018.11.14 at 23h 27m 11s.xml">
-      <configuration name="GetKLargestElementTest.kEqualsSizeOfListTest" configurationId="JUnit" />
+    <history-entry file="GetMedianTest_orderedInputTest - 2018.11.15 at 00h 24m 16s.xml">
+      <configuration name="GetMedianTest.orderedInputTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GetKLargestElementTest - 2018.11.14 at 23h 27m 18s.xml">
-      <configuration name="GetKLargestElementTest" configurationId="JUnit" />
+    <history-entry file="GetMedianTest_reverseOderedInputTest - 2018.11.15 at 00h 24m 57s.xml">
+      <configuration name="GetMedianTest.reverseOderedInputTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GetKLargestElementTest_kEqualsOneTest - 2018.11.14 at 23h 27m 49s.xml">
-      <configuration name="GetKLargestElementTest.kEqualsOneTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetKLargestElementTest - 2018.11.14 at 23h 27m 54s.xml">
-      <configuration name="GetKLargestElementTest" configurationId="JUnit" />
+    <history-entry file="GetMedianTest_reverseOrderedInputTest - 2018.11.15 at 00h 27m 52s.xml">
+      <configuration name="GetMedianTest.reverseOrderedInputTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1480000" />
+    <option name="totallyTimeSpent" value="1097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -294,14 +304,14 @@
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,24 +334,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/GetKthLargestElement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetMedian.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="238">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GetKLargestElementTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/GetMedianTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="100" column="28" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+        <state relative-caret-position="391">
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
           </folding>
         </state>
       </provider>
